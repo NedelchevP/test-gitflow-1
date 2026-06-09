@@ -6,3 +6,4 @@ if __name__ == "__main__":
 
     print("some new changes are in place.")
     
+    print("This is the end of the new file.")
