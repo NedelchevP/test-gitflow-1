@@ -6,5 +6,4 @@ if __name__ == "__main__":
 
     print("some new changes are in place.")
     
-    print("I am adding a conflicting line here.")
-    
+    print("I am adding a conflicting line here. + This is the end of the new file.")
